@@ -1,0 +1,4 @@
+name: PortalDespawnFix
+version: 1.0
+main: com.portalfix.portaldespawnfix.PortalDespawnFix
+api-version: "1.20"

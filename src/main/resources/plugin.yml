@@ -1,4 +1,5 @@
 name: PortalDespawnFix
-version: 1.0
+version: 1.1
 main: com.portalfix.portaldespawnfix.PortalDespawnFix
-api-version: "1.20"
+description: Keeps zombified piglins from despawning right after a portal transfer.
+api-version: "26.1"
